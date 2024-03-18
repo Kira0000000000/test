@@ -7,7 +7,7 @@
 #include "../utils/constants/DbCnst.h"
 #include "../utils/constants/FieldCnst.h"
 #include "../utils/constants/CollectionCnst.h"
-
+#include "../utils/constants/UsersSettingsCnst.h"
 
 using bsoncxx::builder::basic::kvp;
 
